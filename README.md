@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-Beginner programmer
-College student
+Just another repository beginner programmer college student
